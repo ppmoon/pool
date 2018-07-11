@@ -1,3 +1,5 @@
+![image](./dou.png)
+豆豆Pool
 ## GOLANG简单的工作池
 本repo是一个简单的golang工作池，仅供交流和学习使用。golang工作池的作用是可以限制goroutine的启动数量。
 # use
